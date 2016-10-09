@@ -1,0 +1,2 @@
+# JavaSocketExample
+该demo展示了如何通过tcp协议实现一个简单的聊天功能
